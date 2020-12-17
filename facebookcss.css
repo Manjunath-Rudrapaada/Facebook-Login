@@ -1,0 +1,59 @@
+#d1{
+    background-color: #3b5998;
+}
+#a1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+    text-indent: 200px;
+}
+#m{
+    padding-left: 270px;
+}
+#a2{
+    color: white;
+    padding-left: 400px;
+}
+#a3{
+    color: white;
+}
+#a4{
+    color: lightsteelblue;
+}
+#b1{
+    background-color: forestgreen;
+    border-radius: 10px;
+    color: white;
+    width: 120px;
+    height: 35px;
+}
+#d2{
+    background-color: white;
+}
+body{
+    background-color: lightgrey;
+}
+#rs{
+    padding-left: 200px;
+}
+#p0{
+    font-size: 30px;
+    font-weight: bold;
+}
+#p00{
+    font-size: 20px;
+}
+#p1{
+    text-indent: 250px;
+}
+#p2{
+    font-size: 16px;
+}
+#p3{
+    text-indent: 250px;
+}
+
+#i1{
+    width: 200px;
+    height: 200px;
+}
